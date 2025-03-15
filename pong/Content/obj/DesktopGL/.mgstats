@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/kauan/GitHub/game/pong/Content/assets/ball.png","C:/Users/kauan/GitHub/game/pong/Content/bin/DesktopGL/assets/ball.xnb","TextureProcessor","Texture2DContent",102,1685,0,0973527
+"C:/Users/kauan/GitHub/game/pong/Content/assets/bar.png","C:/Users/kauan/GitHub/game/pong/Content/bin/DesktopGL/assets/bar.xnb","TextureProcessor","Texture2DContent",139,16085,0,0040882
+"C:/Users/kauan/GitHub/game/pong/Content/assets/goal.png","C:/Users/kauan/GitHub/game/pong/Content/bin/DesktopGL/assets/goal.xnb","TextureProcessor","Texture2DContent",14324,327105,0,0241724
