@@ -4,9 +4,9 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/kauan/GitHub/game/pong/Content/assets/ball.png</File>
-    <File>C:/Users/kauan/GitHub/game/pong/Content/assets/bar.png</File>
-    <File>C:/Users/kauan/GitHub/game/pong/Content/assets/goal.png</File>
+    <File>C:/Users/kauan/GitHub/gameDevelopment/pong/Content/assets/ball.png</File>
+    <File>C:/Users/kauan/GitHub/gameDevelopment/pong/Content/assets/bar.png</File>
+    <File>C:/Users/kauan/GitHub/gameDevelopment/pong/Content/assets/goal.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

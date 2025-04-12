@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/kauan/GitHub/game/pong/Content/assets/goal.png</SourceFile>
+  <SourceFile>C:/Users/kauan/GitHub/gameDevelopment/pong/Content/assets/goal.png</SourceFile>
   <SourceTime>2024-12-19T16:33:34.4823962-03:00</SourceTime>
-  <DestFile>C:/Users/kauan/GitHub/game/pong/Content/bin/DesktopGL/Content/assets/goal.xnb</DestFile>
-  <DestTime>2024-12-19T16:38:39.9406156-03:00</DestTime>
+  <DestFile>C:/Users/kauan/GitHub/gameDevelopment/pong/Content/bin/DesktopGL/Content/assets/goal.xnb</DestFile>
+  <DestTime>2025-03-29T00:02:22.2557938-03:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2024-08-16T14:05:56-03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
